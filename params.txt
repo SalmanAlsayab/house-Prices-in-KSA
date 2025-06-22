@@ -1,0 +1,20 @@
+Best parameters: {'model__max_depth': 30, 'model__min_samples_leaf': 4, 'model__min_samples_split': 9, 'model__n_estimators': 200}
+Train score: 0.6699917994346636
+Test score: 0.596727856074563
+
+Best parameters: {'model__max_depth': 32, 'model__min_samples_leaf': 4, 'model__min_samples_split': 9, 'model__n_estimators': 200}
+Train score: 0.6700264252172166
+Test score: 0.5968905552402288
+
+Best parameters: {'model__max_depth': 23, 'model__min_samples_leaf': 4, 'model__min_samples_split': 9, 'model__n_estimators': 200}
+Train score: 0.6603740026718921
+Test score: 0.6379263557144231
+
+Best parameters: {'model__max_depth': 23, 'model__min_samples_leaf': 4, 'model__min_samples_split': 4, 'model__n_estimators': 200}
+Train score: 0.666743167473414
+Test score: 0.6405002256018821
+
+Best parameters: {'model__learning_rate': 0.1, 'model__max_depth': -1, 'model__min_child_samples': 5, 'model__n_estimators': 100, 'model__num_leaves': 31}
+Train score: 0.9919859782133907
+Test score: 0.9942281975561226
+model:LightGBM

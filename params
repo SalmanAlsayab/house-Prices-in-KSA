@@ -1,7 +1,0 @@
-Best parameters: {'model__max_depth': 30, 'model__min_samples_leaf': 4, 'model__min_samples_split': 9, 'model__n_estimators': 200}
-Train score: 0.6699917994346636
-Test score: 0.596727856074563
-
-Best parameters: {'model__max_depth': 32, 'model__min_samples_leaf': 4, 'model__min_samples_split': 9, 'model__n_estimators': 200}
-Train score: 0.6700264252172166
-Test score: 0.5968905552402288
